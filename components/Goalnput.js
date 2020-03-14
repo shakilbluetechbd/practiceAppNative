@@ -36,14 +36,16 @@ const styles = StyleSheet.create({
   },
   input: {
     borderBottomColor: 'black',
+    color: 'black',
     borderWidth: 1,
     width: '80%',
+    height: 30,
     marginBottom: 10
   },
   buttonContainer: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    width:'60%'
+    width: '60%'
   }
 })
 
